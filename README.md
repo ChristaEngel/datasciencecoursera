@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is where I'll store course project information
+This repo is where I'll store course project information
